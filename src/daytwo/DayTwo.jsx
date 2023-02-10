@@ -1,7 +1,7 @@
 import { useState } from "react";
 import Profile from "./Profile";
 
-const Gallery = ({ count, onPress }) => {
+const DayTwo = ({ count, onPress }) => {
   return (
     <>
       <section>
@@ -15,4 +15,4 @@ const Gallery = ({ count, onPress }) => {
   );
 };
 
-export default Gallery;
+export default DayTwo;
